@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um um progeto para ahudar a rastriar os Habitos é para acompanhar sua consistencia.
 
-- [Acesse o projeto finalizado, online]
+- [Acesse o projeto finalizado, online](https://hygoribeiro.github.io/Controle_de_Habitos/)
 
 
 
